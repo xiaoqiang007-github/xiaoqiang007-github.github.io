@@ -522,7 +522,7 @@
     "lodash.defaults": "^2.4.1",
     "lodash.escape": "^2.4.1",
     "lodash.keys": "^2.4.1",
-    "lodash.template": "^2.4.1",
+    "lodash.template": "^4.5.0",
     "lodash.values": "^2.4.1",
     "map-stream": "^0.0.7",
     "meow": "^3.7.0",
